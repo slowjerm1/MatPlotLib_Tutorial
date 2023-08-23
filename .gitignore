@@ -1,0 +1,13 @@
+
+**/venv/*
+**/localPythonEnv/*
+/.vscode
+.vscode
+*.log
+*.pot
+*.pyc
+__pycache__/
+#**/migrations/*
+**/.ipynb_checkpoints/*
+### Apple Mac cleverness
+.DS_Store
